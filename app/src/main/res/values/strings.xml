@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finaliontion</string>
+    <string name="click_me">Click Me</string>
+    <string name="don_t_click_me">DON\'T CLICK ME</string>
+</resources>
